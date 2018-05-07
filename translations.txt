@@ -22,8 +22,8 @@ body:
 finger:
 toe:
 computer:
-window:
-door:
+window:uks
+door:aken
 bed:
 tree:
 grass:
