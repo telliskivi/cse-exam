@@ -11,9 +11,9 @@ south:
 water:
 air:
 wind:
-book:
-house:
-road:
+book:auto
+house:raamat
+road:kass
 car:
 hand:
 foot:
