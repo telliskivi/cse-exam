@@ -13,3 +13,11 @@ h1 {
     font-size: 32px;
     font-weight: normal;
 }
+
+.landing {
+    background: pink;
+}
+
+.landing section {
+    background: white;
+}
