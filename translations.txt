@@ -24,10 +24,10 @@ toe:
 computer:
 window:
 door:
-bed:
-tree:
-grass:
-website:
+bed:voodi
+tree:kollane
+grass:gaas
+website:veebileht
 drink:
 food:
 screen:
