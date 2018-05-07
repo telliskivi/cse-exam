@@ -30,9 +30,9 @@ grass:
 website:
 drink:
 food:
-screen:
-mouse:
-cat:
+screen:ekraan
+mouse:hiir
+cat:kass
 dog:
 wall:
 purple:
