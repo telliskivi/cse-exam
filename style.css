@@ -3,3 +3,13 @@ body {
     color: #333;
     font: 16px sans-serif;
 }
+
+section {
+    margin: 40px auto;
+    width: 600px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: normal;
+}
