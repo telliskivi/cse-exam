@@ -35,10 +35,10 @@ mouse:
 cat:
 dog:
 wall:
-purple:
-brown:
-bicycle:
-face:
+purple:punane
+brown:kass
+bicycle:jalgratas
+face:pea
 bottle:
 desk:
 chair:
