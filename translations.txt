@@ -21,7 +21,7 @@ head:
 body:
 finger:
 toe:
-computer:
+computer:arvuti
 window:
 door:
 bed:
