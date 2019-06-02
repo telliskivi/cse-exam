@@ -15,3 +15,9 @@
 - TortoiseHG:
 - Sublime Merge:
 - Gitx:
+
+# Installers
+
+- Windows:
+- Linux:
+- macOS:
