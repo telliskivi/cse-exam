@@ -2,5 +2,5 @@
 - Java:
 - Haskell:
 - Php:
-- Swift:
+- Swift: https://swift.org/
 - Kotlin:
