@@ -1,6 +1,6 @@
 - Python:
 - Java:
-- Haskell:
+- Haskell: https://www.haskell.org/
 - Php: https://php.net/
 - Swift:
 - Kotlin: https://kotlinlang.org/
