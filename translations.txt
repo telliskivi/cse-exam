@@ -39,8 +39,8 @@ purple:
 brown:
 bicycle:
 face:
-bottle:
-desk:
+bottle:pudel
+desk:laud
 chair:
 bag:
 phone:
