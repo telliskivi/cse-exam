@@ -1,0 +1,6 @@
+1. 86 commits. Command: git rev-list --all --count
+
+2. Line 10 in index.html was last changed at 2018-05-07 19:17:18.
+   The author was Stepan Bolotnikov. Command: git blame index.html
+
+3. Message is added travis config file. Command: git show 865cbc8
