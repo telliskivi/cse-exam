@@ -9,8 +9,8 @@ east:
 west:
 south:
 water:
-air:
-wind:
+air:õhk
+wind:tuul
 book:
 house:
 road:
@@ -30,9 +30,9 @@ grass:
 website:
 drink:jook
 food:toit
-screen:
-mouse:
-cat:
+screen:ekraan
+mouse:hiir
+cat:kass
 dog:
 wall:
 purple:
