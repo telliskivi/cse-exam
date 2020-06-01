@@ -28,8 +28,8 @@ bed:
 tree:
 grass:
 website:
-drink:
-food:
+drink:jook
+food:toit
 screen:ekraan
 mouse:hiir
 cat:kass
