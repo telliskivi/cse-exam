@@ -2,9 +2,9 @@
 By Edgar Allan Poe
 
 Once upon a midnight dreary, while I pondered, weak and weary,
-over many a quaint and curious volume of forgotten lore—
+Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
-as of some one gently rapping, rapping at my chamber door.
+As of some one gently rapping, rapping at my chamber door.
 “’Tis some visitor,” I muttered, “tapping at my chamber door—
 Only this and nothing more.”
 
@@ -17,9 +17,9 @@ Nameless here for evermore.
 
 And the silken, sad, uncertain rustling of each purple curtain
 Thrilled me—filled me with fantastic terrors never felt before;
-So that now, to still the beating of my heart, I stood repeating
+So that now, to still the beating of my heart, I stood epeating
 “’tis some visitor entreating entrance at my chamber door—
-some late visitor entreating entrance at my chamber door;—
+Some late visitor entreating entrance at my chamber door;—
 This it is and nothing more.”
 
 Presently my soul grew stronger; hesitating then no longer,
