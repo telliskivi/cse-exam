@@ -4,8 +4,8 @@ By Edgar Allan Poe
 Once upon a midnight dreary, while I pondered, weak and weary,
 Over many a quaint and curious volume of forgotten lore—
 While I nodded, nearly napping, suddenly there came a tapping,
-As of some one gently rapping, rapping at my chamber _.
-“’Tis some visitor,” I muttered, “tapping at my chamber _—
+As of some one gently rapping, rapping at my chamber door.
+“’Tis some visitor,” I muttered, “tapping at my chamber door—
 Only this and nothing more.”
 
 Ah, distinctly I remember it was in the bleak December;
@@ -18,15 +18,15 @@ Nameless here for evermore.
 And the silken, sad, uncertain rustling of each purple curtain
 Thrilled me—filled me with fantastic terrors never felt before;
 So that now, to still the beating of my heart, I stood repeating
-“’tis some visitor entreating entrance at my chamber _—
-Some late visitor entreating entrance at my chamber _;—
+“’tis some visitor entreating entrance at my chamber door—
+Some late visitor entreating entrance at my chamber door;—
 This it is and nothing more.”
 
 Presently my soul grew stronger; hesitating then no longer,
 “Sir,” said I, “or Madam, truly your forgiveness I implore;
 But the fact is I was napping, and so gently you came rapping,
-And so faintly you came tapping, tapping at my chamber _,
-that I scarce was sure I heard you”—here I opened wide the _;—
+And so faintly you came tapping, tapping at my chamber door,
+that I scarce was sure I heard you”—here I opened wide the door;—
 Darkness there and nothing more.
 
 Deep into that darkness peering, long I stood there wondering, fearing,
@@ -46,8 +46,8 @@ Let my heart be still a moment and this mystery explore;—
 Open here I flung the shutter, when, with many a flirt and flutter,
 In there stepped a stately Raven of the saintly days of yore;
 Not the least obeisance made he; not a minute stopped or stayed he;
-But, with mien of lord or lady, perched above my chamber _—
-Perched upon a bust of Pallas just above my chamber _—
+But, with mien of lord or lady, perched above my chamber door—
+Perched upon a bust of Pallas just above my chamber door—
 Perched, and sat, and nothing more.
 
 Then this ebony bird beguiling my sad fancy into smiling,
@@ -60,8 +60,8 @@ Quoth the Raven “Nevermore.”
 Much I marvelled this ungainly fowl to hear discourse so plainly,
 Though its answer little meaning—little relevancy bore;
 For we cannot help agreeing that no living human being
-Ever yet was blessed with seeing bird above his chamber _—
-Bird or beast upon the sculptured bust above his chamber _,
+Ever yet was blessed with seeing bird above his chamber door—
+Bird or beast upon the sculptured bust above his chamber door,
 With such name as “Nevermore.”
 
 But the Raven, sitting lonely on the placid bust, spoke only
@@ -79,7 +79,7 @@ Till the dirges of his Hope that melancholy burden bore
 Of ‘Never—nevermore’.”
 
 But the Raven still beguiling all my fancy into smiling,
-Straight I wheeled a cushioned seat in front of bird, and bust and _;
+Straight I wheeled a cushioned seat in front of bird, and bust and door;
 Then, upon the velvet sinking, I betook myself to linking
 Fancy unto fancy, thinking what this ominous bird of yore—
 What this grim, ungainly, ghastly, gaunt, and ominous bird of yore
@@ -116,12 +116,12 @@ Quoth the Raven “Nevermore.”
 “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting—
 “Get thee back into the tempest and the Night’s Plutonian shore!
 Leave no black plume as a token of that lie thy soul hath spoken!
-Leave my loneliness unbroken!—quit the bust above my _!
-Take thy beak from out my heart, and take thy form from off my _!”
+Leave my loneliness unbroken!—quit the bust above my door!
+Take thy beak from out my heart, and take thy form from off my door!”
 Quoth the Raven “Nevermore.”
 
 And the Raven, never flitting, still is sitting, still is sitting
-On the pallid bust of Pallas just above my chamber _;
+On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon’s that is dreaming,
 And the lamp-light o’er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
